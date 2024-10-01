@@ -1,9 +1,9 @@
 import { StyleHeader } from './styles'
 
-const Cabecalhp = () => (
-  <StuleHeader>
+const Cabecalho = () => (
+  <StyleHeader>
     <h1>Ebac Jobs</h1>
-  </StuleHeader>
+  </StyleHeader>
 )
 
 export default Cabecalho
